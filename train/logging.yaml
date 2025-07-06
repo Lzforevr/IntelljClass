@@ -1,0 +1,4 @@
+save_dir: runs/pose/train
+project: runs/pose
+name: train
+exist_ok: false

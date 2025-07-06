@@ -1,0 +1,6 @@
+train: datasets/your_dataset/images/train
+val: datasets/your_dataset/images/val
+
+nc: 1
+names: ['person']
+kpt_shape: [11, 3]
